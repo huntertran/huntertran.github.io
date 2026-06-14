@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "type": "tools",
+            "repos": [
+                "property-manager-prod",
+                "mortgage-calc-prod",
+                "canada-greenbutton",
+                "eedraws",
+                "password-generator",
+                "canada-crime-map",
+                "enum-flag-converter",
+                "guid-generator",
+                "seco-storms-maker"
+            ]
+        },
+        {
+            "type": "courses",
+            "repos": [
+                "soen6461-snippets",
+                "udb-converter",
+                "soen6461-plantuml-generator",
+                "soen6441-riskgame"
+            ]
+        },
+        {
+            "type": "researches",
+            "repos": [
+                "ptidej-wordcloud",
+                "pattern-abiding-api"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "name": "Van Tuan Tran",
+    "bio": "Master in Computer Science at Concordia University",
+    "experience": [
+        {
+            "title": "NashTech Limited",
+            "name": "Senior Software Engineer",
+            "from": "2018-07",
+            "to": "2019-04",
+            "location": "Etown Building, Ho Chi Minh City, Vietnam",
+            "description": "• Team lead, create data visualization software for a Korean company, using WPF and customized Telerik controls.\n• Key member, working on profile matching platform between industrial suppliers and buyers for a UK company, using a combination of ASP.NET Core 2, Neo4J database and Angular 5 for client-side.",
+            "avatar": "./logos/nashtech.png"
+        },
+        {
+            "title": "Nexcel Solutions",
+            "name": "Software Engineer",
+            "from": "2018-02",
+            "to": "2019-06",
+            "location": "Quang Trung Software Park, Ho Chi Minh City, Vietnam",
+            "description": "• Human Resource Payroll: built a web application that helps HRs and accountants calculate salary and export payroll for employees with high-security requirements. Developed using ASP.NET Core 2 with Dapper, SQL Server and Visual Studio Code.\n• Redmine: setup and write custom extensions to extend the functionality of the Redmine system. Developed using Ruby on Rail 5, with Ruby 2.4 on Windows.\n• SMS-Employee Performance Appraisal: maintain a web application that manages, evaluates employee performance with custom rules applied monthly and yearly. Developed using ASP.NET MVC and SQL Server.\n• Human Resource Management: maintain a web application that manages employees working hours. Developed using ASP.NET MVC and SQL Server.",
+            "avatar": "./logos/nexcel.png"
+        },
+        {
+            "title": "Zinio LLC",
+            "name": "Software Engineer",
+            "from": "2014-11",
+            "to": "2017-01",
+            "location": "Flemington Building, Ho Chi Minh City, Vietnam",
+            "description": "• Zinio Branded App: A full functionalities white app that can be rebuilt with a set of custom properties to fit with thousands of publishers\n• Zinio SDK for Windows: A SDK that helps publishers build their apps with minimum effort but still have every function of a magazine app on the store (read, download, bookmark, share, purchase, etc.)\n• Automatic Build System for Branded App: A tool that takes source code from Git repo, inject publisher’s properties and build the app.",
+            "avatar": "./logos/zinio.png"
+        },
+        {
+            "title": "SHTP - Microsoft Innovation Center",
+            "name": "Internship",
+            "from": "2013-04",
+            "to": "2014-08",
+            "location": "35 Nguyen Thong, District 3, HCMC | Saigon Hightech Park - District 9, HCMC",
+            "description": "Develop approximately 12 Windows Phone Apps, 5 Windows Store App for Nokia and Microsoft Vietnam. Analyze and write wrappers to use APIs simply and easily for other developers. Analyze and replicate web requests and responses for non-API services.",
+            "avatar": "./logos/microsoft.png"
+        },
+        {
+            "title": "Microsoft",
+            "name": "Microsoft Student Partner",
+            "from": "2010-08",
+            "to": "2016-06",
+            "location": "Ho Chi Minh City, Vietnam",
+            "description": "• Talent Management Lead. Manage about 120 members of other Microsoft Student Partners. Recruit new members and manage tasks for the recruitment team.\n• Organize monthly events and team bonding activities. Held workshops and hands-on labs for students at universities. (Sometimes I was the instructor)\n• Write and send newsletters monthly via email and website.\n• Organize and Mentoring for teams in the Microsoft Imagine Cup competition.",
+            "avatar": "./logos/microsoft.png"
+        }
+    ],
+    "education": [
+        {
+            "name": "Master's degree, Computer Science",
+            "title": "Concordia University",
+            "from": "09-2019",
+            "to": "08-2021",
+            "location": "Montreal, Quebec, Canada",
+            "avatar": "./logos/concordia.jpg"
+        },
+        {
+            "name": "Bachelor of Engineering - BE, Information System, A",
+            "title": "University of Information Technology",
+            "from": "2010",
+            "to": "2015",
+            "location": "Ho Chi Minh City, Vietnam",
+            "avatar": "./logos/uit.png"
+        }
+    ],
+    "volunteer": [
+        {
+            "name": "Teacher",
+            "title": "Smile Group",
+            "from": "2011-02",
+            "to": "2011-05",
+            "location": "Ho Chi Minh City, Vietnam",
+            "description": "Help poor kids and HIV Positive kids study major subjects at school\nProvide them a safe, fun and professional environment to play, study and be part of community."
+        }
+    ],
+    "awards": [
+        {
+            "title": "Concordia International Tuition Award of Excellence",
+            "time": "School year 2019 and 2020",
+            "org": "Concordia University",
+            "description": "Tuition scholarship for International Student"
+        },
+        {
+            "title": "Microsoft Imagine Cup 2015 - National Winner",
+            "time": "Apr 2015",
+            "org": "Microsoft",
+            "description": "For World Citizenship\nNational Winner\nWorld Semifinal Competitors"
+        },
+        {
+            "title": "AmCham Scholarship 2014",
+            "time": "Dec 2014",
+            "org": "American Chamber of Commerce Vietnam",
+            "description": "Excellent Award"
+        },
+        {
+            "title": "Microsoft Student Partner of the Year",
+            "time": "May 2014",
+            "org": "Microsoft",
+            "description": "For continuous contribution to MSP Group and community"
+        }
+    ],
+    "researches": [
+        {
+            "title": "Analyzing and Visualizing Projects and their Relations in Software Ecosystems",
+            "abstract": "More and more software projects are being consolidated into ecosystems to increase their discovery, usability, and usefulness. Some of the most popular ecosystems exist in npmjs, Python Package Indexing, and Apache Maven Repository. It is difficult for developers to relate these projects and use them to their full potential because of their number, the spread and depth of their features, and their intrinsic and accidental complexities. We present a technique---SECO Storms Maker---to capture and present the essential information from projects in an ecosystem to help developers join, use, and contribute to the ecosystem. We generate word-clouds based on the projects' documentation via tokenization and distribution frequency. We identify relations among projects using grammar patterns scanning after part-of-speech tagging. We put these word-clouds into a graph to ease navigation and exploration. We evaluate our technique by manually building a ground truth and comparing a randomly-selected project with SECO to show its benefits.",
+            "authors": [
+                {
+                    "name": "Van Tuan Tran",
+                    "avatar": "./avatars/van tuan tran.jpg"
+                },
+                {
+                    "name": "Cheng Cheng"
+                },
+                {
+                    "name": "Fabio Petrillo",
+                    "avatar": "https://fabiopetrillo.com/authors/admin/avatar_hudaa441594782096891e089cfddcdad50_446620_270x270_fill_q75_lanczos_center.jpg",
+                    "link": "https://fabiopetrillo.com/"
+                },
+                {
+                    "name": "Yann-Gaël Guéhéneuc",
+                    "avatar": "http://www.yann-gael.gueheneuc.net/Work/Info/Files/YannGaelGueheneuc.jpg",
+                    "link": "http://www.yann-gael.gueheneuc.net/"
+                }
+            ],
+            "org": "Concordia University",
+            "link" : "https://doi.org/10.26226/morressier.613b545d842293c031b5b987",
+            "doi": "10.26226/morressier.613b545d842293c031b5b987",
+            "date": "2021-09",
+            "published": "IEEE Working Conference on Software Visualization (VISSOFT 2021)"
+        },
+        {
+            "title": "Formalising Solutions to REST API Practices as Design (Anti)Patterns",
+            "abstract": "REST (REpresentational State Transfer) is the de-facto architectural style for designing Web APIs. Developers follow recurring practices when designing REST APIs; good practices are captured as design patterns while poor ones become anti-patterns. However, these (anti)patterns are often described informally in natural language, which makes them ambiguous, hard to compare, and difficult to detect automatically. We formalise a catalogue of REST API design patterns and anti-patterns, giving each a precise, uniform definition in terms of API structure and behaviour. This formalisation clarifies the relationships between related (anti)patterns and provides a foundation for tooling that can automatically detect them and guide developers toward better REST API designs.",
+            "authors": [
+                {
+                    "name": "Van Tuan Tran",
+                    "avatar": "./avatars/van tuan tran.jpg"
+                },
+                {
+                    "name": "Manel Abdellatif"
+                },
+                {
+                    "name": "Yann-Gaël Guéhéneuc",
+                    "avatar": "http://www.yann-gael.gueheneuc.net/Work/Info/Files/YannGaelGueheneuc.jpg",
+                    "link": "http://www.yann-gael.gueheneuc.net/"
+                }
+            ],
+            "org": "Concordia University",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-030-91431-8_10",
+            "doi": "10.1007/978-3-030-91431-8_10",
+            "date": "2021-11",
+            "published": "Int. Conference on Service-Oriented Computing (ICSOC 2021), LNCS 13121"
+        }
+    ]
+}
